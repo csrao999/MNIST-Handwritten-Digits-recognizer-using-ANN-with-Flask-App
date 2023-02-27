@@ -1,4 +1,5 @@
-Hi, It's me UBprogrammer. Hope you are doing great!
+Hi, there! 
+Hope you are doing great!
 
 -------------------------------------------------------------
 -------------------------- Method # 1 to Run project on your Machine -----------------------
@@ -36,11 +37,5 @@ Now activate the created enviorement (my_project_env) and execute below command:
 ENJOY!
 ---------------------------------------------------------------------
 
-Note: Incase you are unable to run the project, You can always contact me on:
-
-WhatsApp: +923484122900
-Email: ubaidp1049@gmail.com
-
-Thanks! 
 
 
